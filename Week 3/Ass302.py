@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 07/09/2020
-# Honor Statement : “I have not given or received any unauthorized assistance on this assignment.”
-# Youtube Link: https://www.youtube.com/watch?v=dbjMZoFFLPA
+
 
 import math
 
