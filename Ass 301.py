@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 07/09/2020
-# Honor Statement : “I have not given or received any unauthorized assistance on this assignment.”
-# Youtube Link: https://youtu.be/7EzMwbwb0Bk
+
 
 def allprimes():
     """In this function we obtain all the possible values for prime numbers from 2 to 100."""
