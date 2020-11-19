@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
-
-# Maharshi Thakkar
-# 06/21/2020
-#"I have not given or received any unauthorized assistance on this assignment."
-#https://youtu.be/C0VJCqnH6Q0
 
 def location():
     """So in this function we attempt to determine where the file is located.
@@ -254,15 +245,6 @@ if __name__ == '__main__':
     
     exit()
 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
