@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
-
-# Maharshi Thakkar
-# 07/30/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/eKIexvgcxh0
 
 
 from urllib.request import urlopen
