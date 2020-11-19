@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 08/07/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/p_1ZXXnX8v0
+
 
 
 import math
