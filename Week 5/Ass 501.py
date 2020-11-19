@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 07/23/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/H1Ui4k5PjBU
+
 
 
 import random
