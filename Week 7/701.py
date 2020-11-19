@@ -1,7 +1,3 @@
-# Maharshi Thakkar
-# 07/30/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/ATaRSLuxMJA
 
 
 from statistics import mean
