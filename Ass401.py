@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 07/17/2020
-# Honor statement: “I have not given or received any unauthorized assistance on this assignment.”
-# Youtube Link: https://youtu.be/UpftpD46liM
+
 
 
 
