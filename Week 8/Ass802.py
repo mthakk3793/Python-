@@ -1,7 +1,4 @@
-# Maharshi Thakkar
-# 08/13/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/fa4lvf0Jq74
+
 
 from plotGenerator import InteractivePlotGenerator, SimplePlotGenerator, RandomPlotGenerator
 
