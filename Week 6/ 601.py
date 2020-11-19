@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[3]:
-
-
-# Maharshi Thakkar
-# 07/30/2020
-# "I have not given or received any unauthorized assistance on this assignment."
-# https://youtu.be/sX-QVXBrrXc
 
 """Looking to create a list of palindrome dates for the 21st century."""
 
